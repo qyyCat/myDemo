@@ -7,3 +7,4 @@ Creating a new branch is quick AND simple
 Git demo2
 Git
 Git stash
+Git branch
